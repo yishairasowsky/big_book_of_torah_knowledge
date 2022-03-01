@@ -1,15 +1,14 @@
 # Arvei Pesachim
-
 ## Contents
+## Preparing for the Seder [Mishnah 99b]
+### Don't eat
+- When? Erev Pesach 3 hours before night.
+- Who? Even a poor man, before reclining as "free".
+### Financial support
+- Tzedakah provides four cups of wine.
+- Even if he lives off daily Tamchuy.
 
-## Pesachim 99b
-## Mishnah: Preparing for the Seder
-Don't eat erev Pesach 3 hours before night.
-Poor man mustn't eat before reclining as a free man.
-Tzedakah provides four cups of wine.
-Even if he lives off daily Tamchuy.
-
-## Gemara: Pesach versus Shabbos/Yom Tov
+## Pesach versus Shabbos/Yom Tov [Gemara 99b]
 ### Kashya on our Mishnah
 - Why specify Pesach? The isur applies to any Shabbos/Yom Tov!
 - That is according to R. Yehudah; R. Yosi allows eating until night.
@@ -21,10 +20,9 @@ Even if he lives off daily Tamchuy.
 - But it is forbidden on Erev Shabbos also a half hour before Minchah!
 - This is proven from a second beraisa, which specifies the time of Minchah to include even a half hour before.
 
-## Pesachim 100a
-## Gemara: Must one interrupt?
+## Must one interrupt? [Gemara 100a]
 ### Terutz defending Rav Papa
-Mar Zutra edits Beraisa #2 to forbid Minchah not before. 
+Mar Zutra edits Beraisa #2 to forbid Minchah not before.
 ### Kashya on the defense for Rav Papa
 - Mereimar: Rav Pinchas accepted the version which forbids from 9 hours! So we must answer like Rav Huna.
 ### Kashya on Rav Huna
@@ -43,71 +41,36 @@ Mar Zutra edits Beraisa #2 to forbid Minchah not before.
 - R. Shimon deferred to R. Yosi, lest onlookers think halachah follows R. Yehudah.
 
 ### Psak halachah
-- (Rav Yehudah citing Shmuel): The Halachah does not follow R. Yehudah or R. Yosi - rather, one spreads a tablecloth and makes Kidush [then continues eating. Rashbam - really, he holds that the Halachah follows R. Yosi - he was extra stringent; Tosfos - he holds like the Beraisa on Amud B; spreading a tablecloth is in place of removing the table.]
+- Shmuel rules unlike either R. Yehudah or R. Yosi.- Instead, spread a tablecloth and make Kidush.
+- How can Shmuel ignore both Tanaim?
+    - Rashbam: Ikar hadin is like R. Yosi, but he is machmir.
+    - Tosfos: Shmuel follows a third Tana on amud beis, that spreading the cloth is tantamount to removing the table.
+### Contradfictory ruling
+- Shmuel: One interrupts for Havdalah, just like for kiddush.
+## What constitutes interrupting? [Gemara 100b]
+- Removing the personal table before bensching?
+- No, spreading a cloth.
 
-(h)
-Question: But Rav Tachlifa bar Avdimi cited Shmuel to say that just like we interrupt for Kidush, we interrupt for Havdalah.
+### Visiting the Reish Galusa
+- A tray was brought in front of Raba
+- At what point of the meal?
+    - Rashbam: beginning.
+    - Rashi: middle, when Shabbos came it
+- He spread a cloth and made kiddush.
 
-100b----------------------------------------100b
-1.
-Suggestion: We interrupt by removing the table (they used to have a small table in front of each person; it was removed before saying Birkas ha'Mazon)!
+### Proof from a beraisa
+- Ideally, one should not receive a table unless he made kiddush.
+- If mistake the table was brought first, spread a cloth and make kiddush.
 
-(i)
-Answer: No, we interrupt by spreading a cloth.
+## When can you start eating?
+## Conflicting beraisos
+1. R. Yehudah and R. Yosi agree that you may not start after 9.5 hours.
+1. At some point, they both allow you to start.
 
-(j)
-Rabah bar Rav Huna visited the Reish Galusa's house; they brought a tray in front of him (Rashbam - at the beginning of the meal; Rashi - he was eating, and Shabbos came); he spread a cloth and made Kidush.
+## Kashya on beraisa #2
+- Beraisa #1, where they agree it's forbidden to  start can refer to Erev Pesach.
+- But when do they agree that it's permissible to start?
 
-(k)
-Support (Beraisa): We do not bring a table [in front of a person] unless he already made Kidush; if a table was brought, he spreads a cloth and makes Kidush.
-
-2)
-WHEN MAY ONE START?
-
-(a)
-(Beraisa #1): They (R. Yehudah and R. Yosi, who argue about interrupting) agree that one may not start [to eat after the time of Minchah].
-
-(b)
-(Beraisa #2): They agree that one may start.
-
-(c)
-Question: We understand Beraisa #1 - they agree that one may not start on Erev Pesach;
-
-1.
-But when do they agree that one may start?
-
-2.
-They do not agree about Erev Shabbos - they argue about this!
-
-(d)
-Answer: They agree that one may start before nine hours.
-
-Next
-
-Outlines for Maseches Pesachim
-HOMEPAGE FOR MASECHES PESACHIM
-Dafyomi Advancement Forum homepage
-D.A.F. Homepage
-OTHER D.A.F. RESOURCES ON THIS DAF
-Insights to
-the DafBackground
-to the DafReview
-Questions
-Halachah
-OutlinesTosfos
-OutlinesEnglish
-Charts Revach
-l'Daf
-Review
-Quizטבלאות
-בעבריתיוסף
-דעתחידונים
-על הדף
-גלי
-מסכתאDiscuss
-the DafVideo/Audio
-Lectures
-Other Masechtos Join Mailing Lists
-Ask the Kollel Dafyomi Calendar
-חומר בעברית Donations
-Feedback Dafyomi Links
+## Terutz resolving beraisa #2
+- The case they both permit starting can't be Erev Shabbos, because there they argue.
+- Must be, they both permit starting before 9 hours.
