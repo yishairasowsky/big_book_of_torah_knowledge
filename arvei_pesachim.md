@@ -98,3 +98,5 @@ Mar Zutra edits Beraisa #2 to forbid Minchah not before.
 ### Terutz resolving beraisa #2
 - The case they both permit starting can't be Erev Shabbos, because there they argue.
 - Must be, they both permit starting before 9 hours.
+
+Continue here --> https://dafyomi.co.il/pesachim/points/ps-ps-101.htm
