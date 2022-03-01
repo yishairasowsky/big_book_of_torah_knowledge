@@ -1,5 +1,29 @@
 # Arvei Pesachim
+---
 ## Contents
+- [Preparing for the Seder [Mishnah 99b]](#preparing-for-the-seder--mishnah-99b-)
+  * [Don't eat](#don-t-eat)
+  * [Financial support](#financial-support)
+- [Pesach versus Shabbos/Yom Tov [Gemara]](#pesach-versus-shabbos-yom-tov--gemara-)
+  * [Kashya on our Mishnah](#kashya-on-our-mishnah)
+  * [Two terutzim](#two-terutzim)
+  * [Kashya on terutz #2](#kashya-on-terutz--2)
+- [Must one interrupt? [100a]](#must-one-interrupt---100a-)
+  * [Terutz defending Rav Papa](#terutz-defending-rav-papa)
+  * [Kashya on the defense for Rav Papa](#kashya-on-the-defense-for-rav-papa)
+  * [Kashya on Rav Huna](#kashya-on-rav-huna)
+  * [Terutz for Rav Huna](#terutz-for-rav-huna)
+  * [Eating in Acre](#eating-in-acre)
+  * [Psak halachah](#psak-halachah)
+  * [Contradfictory ruling](#contradfictory-ruling)
+- [What constitutes interrupting? [100b]](#what-constitutes-interrupting---100b-)
+  * [Visiting the Reish Galusa](#visiting-the-reish-galusa)
+  * [Proof from a beraisa](#proof-from-a-beraisa)
+- [When can you start eating?](#when-can-you-start-eating-)
+  * [Conflicting beraisos](#conflicting-beraisos)
+  * [Kashya on beraisa #2](#kashya-on-beraisa--2)
+  * [Terutz resolving beraisa #2](#terutz-resolving-beraisa--2)
+  ---
 ## Preparing for the Seder [Mishnah 99b]
 ### Don't eat
 - When? Erev Pesach 3 hours before night.
@@ -8,7 +32,7 @@
 - Tzedakah provides four cups of wine.
 - Even if he lives off daily Tamchuy.
 
-## Pesach versus Shabbos/Yom Tov [Gemara 99b]
+## Pesach versus Shabbos/Yom Tov [Gemara]
 ### Kashya on our Mishnah
 - Why specify Pesach? The isur applies to any Shabbos/Yom Tov!
 - That is according to R. Yehudah; R. Yosi allows eating until night.
@@ -20,7 +44,7 @@
 - But it is forbidden on Erev Shabbos also a half hour before Minchah!
 - This is proven from a second beraisa, which specifies the time of Minchah to include even a half hour before.
 
-## Must one interrupt? [Gemara 100a]
+## Must one interrupt? [100a]
 ### Terutz defending Rav Papa
 Mar Zutra edits Beraisa #2 to forbid Minchah not before.
 ### Kashya on the defense for Rav Papa
@@ -47,7 +71,7 @@ Mar Zutra edits Beraisa #2 to forbid Minchah not before.
     - Tosfos: Shmuel follows a third Tana on amud beis, that spreading the cloth is tantamount to removing the table.
 ### Contradfictory ruling
 - Shmuel: One interrupts for Havdalah, just like for kiddush.
-## What constitutes interrupting? [Gemara 100b]
+## What constitutes interrupting? [100b]
 - Removing the personal table before bensching?
 - No, spreading a cloth.
 
@@ -63,14 +87,14 @@ Mar Zutra edits Beraisa #2 to forbid Minchah not before.
 - If mistake the table was brought first, spread a cloth and make kiddush.
 
 ## When can you start eating?
-## Conflicting beraisos
+### Conflicting beraisos
 1. R. Yehudah and R. Yosi agree that you may not start after 9.5 hours.
 1. At some point, they both allow you to start.
 
-## Kashya on beraisa #2
+### Kashya on beraisa #2
 - Beraisa #1, where they agree it's forbidden to  start can refer to Erev Pesach.
 - But when do they agree that it's permissible to start?
 
-## Terutz resolving beraisa #2
+### Terutz resolving beraisa #2
 - The case they both permit starting can't be Erev Shabbos, because there they argue.
 - Must be, they both permit starting before 9 hours.
