@@ -108,7 +108,30 @@ The halacha follows Rebbe Yehudah that one does not have to be mafrish.
     <img src="..\img\portico.jpg" width="350">
 
 ---
-
-### Mishnah
-
+<!-- 
+### Perek 3
+### Mishnah 7
 **Topic**: 
+ -->
+
+### Perek 3
+### Mishnah 7
+**Topic**: 
+
+Teepees, silos, and shady huts are patur.
+
+A silo by the Kineret is patur, even if it has a mill and roosters.
+
+A potmaker's set of double huts, the inner one -- where he stores the pots -- is chayav, but the outer one -- where he works and sells his wares -- is patur.
+
+Rebbe Yosi: If it is not a place that is used for shelter both in the summer and also in the inter, then it is patur. 
+
+Therefore, the potter's inner sukkah is going to be patur, since the potter doesn't live there in the winter. 
+
+The halachah doesn't follow Rebbe Yosi; i.e. the inner hut is chayav, even though he doesn't live there in the winter. 
+
+Machlokess: A sukkah meant for Sukkos during Sukkos.
+
+Rebbe Yehudah: It is chayav. Because RY holds that a sukkah is a permanent home, e.g. it needs a mezuzah.
+
+Chachamim: It is patur, because they hold that a sukkah is a temporary home, e.g. it doesn't need a mezuzah.
