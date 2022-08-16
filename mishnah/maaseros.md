@@ -10,7 +10,7 @@
 
 **Warning:**
 
-Despite being one of the shivas haminim for which Eretz Yisrael is praise, it is recommended to avoid eating figs based on the very high chance of finding **bugs** in them. 
+Despite being one of the shivas haminim for which Eretz Yisrael is praised, it is recommended to avoid eating figs based on the very high chance of finding **bugs** in them. 
 
 **The case is…**
 
