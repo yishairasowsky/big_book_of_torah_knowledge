@@ -22,11 +22,17 @@ Do you have to be mafrish terumos and maaseros before eating the figs?
 
 **The opinions are…**
 
-This is a machlokess. Rebbe Meir is machmir and says you cannot eat any of them without being mafrish. Rebbe Yehudah is makel and says you can eat one at a time without being mafrish.
+This is a machlokess. Rebbe Meir is machmir and says you cannot eat any of them without being mafrish. Rebbe Yehudah is maikel and says you can eat one at a time without being mafrish.
 
 **The qualifications are…**
 
-Their machlokess is davka in a case where the farmer picked the figs and handed them to you one at a time. However, if you pick the figs yourself, Rebbe Meir agrees that you’re allowed to eat the figs one at a time without being mafrish. Alternatively, if the farmer picked several figs at once and handed them to you, then even Rebbe Yehudah agrees that you cannot eat before being mafrish.
+Their machlokess is davka in a case where the farmer picked the figs and handed them to you one at a time. 
+
+However, if you pick the figs yourself, Rebbe Meir agrees that you’re allowed to eat the figs one at a time without being mafrish. 
+
+Alternatively, if the farmer picked several figs at once and handed them to you, then even Rebbe Yehudah agrees that you cannot eat before being mafrish.
+
+In addition, even if the farmer gives you one fig at a time, still if you have not eaten the first before he hands you the second, then you become chayav because there are two together.
 
 **The proof is…**
 
