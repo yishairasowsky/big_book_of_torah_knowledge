@@ -87,13 +87,13 @@ The halacha follows Rebbe Yehudah that one does not have to be mafrish.
 
 ### Mishnah 6
 
-#### **Topic**: Places near the yard
+#### **Topic**: Structures near the yard
 
-**Case**: You bring the produce to place near the yard. 
+**Case**: You bring the produce to structure near the yard. 
 
-**Question**: You bring the produce to place near the yard. 
+**Question**: Does the produce become tevel?
 
-**Answer**: It depends!
+**Answer**: It depends on the type of structure:
 
 1. If you brought it to a roof, then it is patur, even if the yard itself would makes the produce chayav. But this is only under certain condiitons:
 
